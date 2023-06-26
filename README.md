@@ -1,6 +1,6 @@
 ### Hi there 👋
-- :man_technologist: I'
-- 🔭 I’m currently working on my portfolio 
+- :man_technologist: I’m a full-stack web developer
+- 🔭 I’m currently working on my portfolio so I can land my first career.
 - 🌱 I’m currently learning React ⚛️
 <!--
 **FawziElZein/FawziElZein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
