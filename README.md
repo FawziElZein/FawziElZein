@@ -1,5 +1,5 @@
 ### Hi there 👋
--  🧑‍💻
+- :man_technologist: I'
 - 🔭 I’m currently working on my portfolio 
 - 🌱 I’m currently learning React ⚛️
 <!--
