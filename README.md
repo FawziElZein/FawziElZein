@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Uploading cd59d626dc86397fe45080e6e9c7027d.gif…]()
+![cd59d626dc86397fe45080e6e9c7027d](https://github.com/FawziElZein/FawziElZein/assets/56543752/07b224fc-10e0-44df-9ce7-495ccc1c6d38)
 
 - :man_technologist: I’m a full-stack web developer
 - 🔭 I’m currently working on my portfolio so I can land my first career
