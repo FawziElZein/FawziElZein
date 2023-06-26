@@ -1,6 +1,8 @@
 ### Hi there 👋
+![Uploading cd59d626dc86397fe45080e6e9c7027d.gif…]()
+
 - :man_technologist: I’m a full-stack web developer
-- 🔭 I’m currently working on my portfolio so I can land my first career.
+- 🔭 I’m currently working on my portfolio so I can land my first career
 - 🌱 I’m currently learning React ⚛️
 <!--
 **FawziElZein/FawziElZein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
