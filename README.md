@@ -3,7 +3,7 @@
 
 - :man_technologist: I’m a full-stack web developer
 - 🔭 I’m currently working on my portfolio so I can land my first career
-- 🌱 I’m currently learning Vim <img src="https://github.com/FawziElZein/FawziElZein/assets/56543752/544c9670-3f3f-4734-9cee-68cc430b037b" width="15" height="15"/>
+- 🌱 I’m currently learning Vim <img src="https://github.com/FawziElZein/FawziElZein/assets/56543752/544c9670-3f3f-4734-9cee-68cc430b037b" width="20" height="20"/>
 
 <!--
 **FawziElZein/FawziElZein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
