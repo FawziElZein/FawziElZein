@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![1_kfx-cN49byOcG5y5_nP-jQ](https://github.com/FawziElZein/FawziElZein/assets/56543752/4fa42752-37a3-43a5-9631-fada27596542)
+![1_kfx-cN49byOcG5y5_nP-jQ](https://github.com/FawziElZein/FawziElZein/assets/56543752/a7ac7f67-831d-4854-a08d-dddcc41f4639)
+
 
 - :man_technologist: I’m a junior full-stack data engineer
 - 🔭 I’m currently working on my portfolio so I can land my first career
