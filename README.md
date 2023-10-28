@@ -2,7 +2,7 @@
 
 ![1_kfx-cN49byOcG5y5_nP-jQ](https://github.com/FawziElZein/FawziElZein/assets/56543752/4fa42752-37a3-43a5-9631-fada27596542)
 
-- :man_technologist: I’m a junior full-stack data en
+- :man_technologist: I’m a junior full-stack data engineer
 - 🔭 I’m currently working on my portfolio so I can land my first career
 - 🌱 I’m currently learning AWS Lambda <img src="https://github.com/FawziElZein/FawziElZein/assets/56543752/a7d7f9d0-67a7-477c-bafb-73eef147d05c" width="20" height="20" />
 
