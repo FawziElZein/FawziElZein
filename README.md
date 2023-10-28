@@ -1,11 +1,11 @@
 ### Hi there 👋
 ![cd59d626dc86397fe45080e6e9c7027d](https://github.com/FawziElZein/FawziElZein/assets/56543752/07b224fc-10e0-44df-9ce7-495ccc1c6d38)
 
-- :man_technologist: I’m a full-stack web developer
+- :man_technologist: I’m a junior full-stack data en
 - 🔭 I’m currently working on my portfolio so I can land my first career
-- 🌱 I’m currently learning Vim <img src="https://github.com/FawziElZein/FawziElZein/assets/56543752/544c9670-3f3f-4734-9cee-68cc430b037b" width="20" height="20" />
+- 🌱 I’m currently learning AWS Lambda <img src="https://github.com/FawziElZein/FawziElZein/assets/56543752/a7d7f9d0-67a7-477c-bafb-73eef147d05c" width="20" height="20" />
 
-<!--
+
 **FawziElZein/FawziElZein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
