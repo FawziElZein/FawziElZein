@@ -5,7 +5,7 @@
 
 - :man_technologist: I’m a junior full-stack data engineer
 - 🔭 I’m currently working on my portfolio so I can land my first career
-- 🌱 I’m currently learning AWS Lambda <img src="https://github.com/FawziElZein/FawziElZein/blob/assets/56543752/dcc5e65d-1794-4ed7-afab-c33087b0e711/lambda-function.png" alt="lambda-function" width="20" height="20">
+- 🌱 I’m currently learning AWS Lambda
 
 <!--**FawziElZein/FawziElZein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
