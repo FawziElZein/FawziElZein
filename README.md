@@ -7,7 +7,7 @@
 
 > :man_technologist: I’m a junior Full-Stack Data Engineer.  
 > 🔭 I’m currently working on my portfolio so I can land my first career.  
-> 🌱 I’m currently learning <img src= "./images/2560px-Amazon_Web_Services_Logo.svg.png" width="20" heigth="20"> so i can get my first certification.
+> 🌱 I’m currently learning <img src= "./images/2560px-Amazon_Web_Services_Logo.svg.png" width="20" heigth="20"> so I can get my first certification.
 
 <!--**FawziElZein/FawziElZein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
