@@ -5,7 +5,7 @@
 ![1_kfx-cN49byOcG5y5_nP-jQ](https://github.com/FawziElZein/FawziElZein/assets/56543752/a7ac7f67-831d-4854-a08d-dddcc41f4639)
 
 
-> :man_technologist: I’m a junior Full-Stack Data Engineer  
+> :man_technologist: I’m a Full-Stack Data Engineer  
 > <img src= "./images/aws_logo.png" width="20" heigth="20"> I'm an AWS Certified Cloud Practitioner  
 > 🔭 I’m currently working on my portfolio to land my first career  
 > <img src= "./images/DP-900.png" width="20" heigth="20"> I’m currently studying to get my Azure Data Fundamentals certification  
